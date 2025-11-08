@@ -14,9 +14,9 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "O Porque Das Policias ?",
             "pages": [
-              "index",
+              "Quando e Porque foi feito",
               "quickstart",
               "development"
             ]
